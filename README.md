@@ -1,6 +1,4 @@
-# Neutral Dark
-*A Dark Theme for LibreSprite based in than_dark_theme_libresprite theme Made by @Maujin111 for LibreSprite*
-
+# Swamp Theme for LibreSprite
 
 ## Installation
 ### 1. Download the zip file or clone the repositori
